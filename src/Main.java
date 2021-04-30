@@ -21,7 +21,7 @@ public class Main extends Application {
         primaryStage.setTitle("Hello World");
 
         Rectangle r = new Rectangle(20, 20, Color.BLACK);
-        r.setX(10);k
+        r.setX(10);
         r.setY(15);
         r.setWidth(20);
         r.setHeight(10);
